@@ -1,0 +1,19 @@
+{
+  "name": "atom-stylus-supremacy",
+  "main": "./lib/atom-stylus-supremacy",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "atom-stylus-supremacy:toggle",
+    "atom-workspace": "atom-stylus-supremacy:fix-file"
+  },
+  "repository": "https://github.com/atom/atom-stylus-supremacy",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "stylus-supremacy": "^1.0.1"
+  }
+}
