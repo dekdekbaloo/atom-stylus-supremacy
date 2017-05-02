@@ -1,5 +1,16 @@
-# atom-stylus-supremacy package
+**Atom Stylus Supremacy** is an atom extension for [stylus-supremacy](https://github.com/ThisIsManta/stylus-supremacy) package which helps you fix stylus files with respective `.stylintrc` file.
 
-A short description of your package.
+# Please visit **[our official website](https://thisismanta.github.io/stylus-supremacy)** for features and settings.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+![Demo](images/demo.gif)
+
+## Settings
+- Fix on save: Let this package fix your stylus file on save.
+
+Related links
+- [Stylus language](http://stylus-lang.com)
+- [Stylus (Node.js module)](https://www.npmjs.com/package/stylus)
+- [Stylus (Visual Studio Code extension)](https://marketplace.visualstudio.com/items?itemName=sysoev.language-stylus)
+- [Stylint (Node.js module)](https://www.npmjs.com/package/stylint)
+- [Stylint (Visual Studio Code extension)](https://marketplace.visualstudio.com/items?itemName=vtfn.stylint)
+- [Stylus Supremacy (Node.js module)](https://www.npmjs.com/package/stylus-supremacy)

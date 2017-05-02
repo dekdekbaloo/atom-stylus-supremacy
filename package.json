@@ -2,18 +2,18 @@
   "name": "atom-stylus-supremacy",
   "main": "./lib/atom-stylus-supremacy",
   "version": "0.0.0",
-  "description": "A short description of your package",
-  "keywords": [],
-  "activationCommands": {
-    "atom-workspace": "atom-stylus-supremacy:toggle",
-    "atom-workspace": "atom-stylus-supremacy:fix-file"
+  "author": {
+    "name": "Jessada Trirongkit",
+    "email": "jessada.trirongkit@gmail.com"
   },
+  "description": "A stylus-supremacy wrapper for you, Atom user. Make your Stylus files look great again, and again.",
+  "keywords": ["beautify","css","format","pretty","stylus"],
   "repository": "https://github.com/atom/atom-stylus-supremacy",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "stylus-supremacy": "^1.0.1"
+    "stylus-supremacy": "1.4.0"
   }
 }
