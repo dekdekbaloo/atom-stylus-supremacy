@@ -1,7 +1,7 @@
 {
   "name": "atom-stylus-supremacy",
   "main": "./lib/atom-stylus-supremacy",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "author": {
     "name": "Jessada Trirongkit",
     "email": "jessada.trirongkit@gmail.com"
