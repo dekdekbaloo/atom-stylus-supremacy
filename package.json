@@ -8,7 +8,7 @@
   },
   "description": "A stylus-supremacy wrapper for you, Atom user. Make your Stylus files look great again, and again.",
   "keywords": ["beautify","css","format","pretty","stylus"],
-  "repository": "https://github.com/atom/atom-stylus-supremacy",
+  "repository": "https://github.com/dekdekbaloo/atom-stylus-supremacy",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
