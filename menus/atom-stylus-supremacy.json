@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle atom-stylus-supremacy",
-        "command": "atom-stylus-supremacy:toggle"
+        "label": "Format Stylus",
+        "command": "atom-stylus-supremacy:format"
       }
     ]
   },
@@ -15,8 +15,8 @@
           "label": "atom-stylus-supremacy",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "atom-stylus-supremacy:toggle"
+              "label": "Format",
+              "command": "atom-stylus-supremacy:format"
             }
           ]
         }

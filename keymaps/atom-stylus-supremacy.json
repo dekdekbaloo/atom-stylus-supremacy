@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "atom-stylus-supremacy:toggle"
+    "ctrl-alt-f": "atom-stylus-supremacy:format"
   }
 }
