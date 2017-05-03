@@ -5,7 +5,7 @@
 ![Demo](images/demo.gif)
 
 ## Settings
-- Fix on save: Let this package fix your stylus file on save.
+- Format on save: Let this package fix your stylus file on save.
 
 Related links
 - [Stylus language](http://stylus-lang.com)
