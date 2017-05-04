@@ -20,6 +20,6 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "stylus-supremacy": "1.4.0"
+    "stylus-supremacy": "1.4.1"
   }
 }
