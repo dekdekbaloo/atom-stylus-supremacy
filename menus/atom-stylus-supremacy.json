@@ -15,8 +15,8 @@
           "label": "atom-stylus-supremacy",
           "submenu": [
             {
-              "label": "Format",
-              "command": "atom-stylus-supremacy:format"
+              "label": "Format Stylus",
+              "command": "atom-stylus-supremacy:format-stylus"
             }
           ]
         }
