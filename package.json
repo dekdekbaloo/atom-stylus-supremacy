@@ -1,7 +1,7 @@
 {
   "name": "atom-stylus-supremacy",
   "main": "./lib/atom-stylus-supremacy",
-  "version": "0.4.3",
+  "version": "0.4.4",
   "author": {
     "name": "Jessada Trirongkit",
     "email": "jessada.trirongkit@gmail.com"
@@ -20,6 +20,6 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "stylus-supremacy": "1.4.1"
+    "stylus-supremacy": "1.4.6"
   }
 }
