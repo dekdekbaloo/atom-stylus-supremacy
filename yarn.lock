@@ -1132,9 +1132,9 @@ stylint@^1.5.9:
     user-home "2.0.0"
     yargs "4.7.1"
 
-stylus-supremacy@1.4.1:
-  version "1.4.1"
-  resolved "https://registry.yarnpkg.com/stylus-supremacy/-/stylus-supremacy-1.4.1.tgz#3e4e5134b3c0680b035633f5556de295a36f5c5b"
+stylus-supremacy@1.4.6:
+  version "1.4.6"
+  resolved "https://registry.yarnpkg.com/stylus-supremacy/-/stylus-supremacy-1.4.6.tgz#0071b68f5d2c6a2f4a71335b5621f2a596d0d3fb"
   dependencies:
     glob "^7.1.1"
     lodash "^4.17.4"
